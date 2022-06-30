@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learn-react/static/css/main.ffe64e14.css",
+    "main.js": "/learn-react/static/js/main.3d49a0cf.js",
+    "index.html": "/learn-react/index.html",
+    "main.ffe64e14.css.map": "/learn-react/static/css/main.ffe64e14.css.map",
+    "main.3d49a0cf.js.map": "/learn-react/static/js/main.3d49a0cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe64e14.css",
+    "static/js/main.3d49a0cf.js"
+  ]
+}

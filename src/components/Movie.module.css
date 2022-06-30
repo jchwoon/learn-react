@@ -1,0 +1,27 @@
+.movie {
+  display: flex;
+  background-color: #dccc59;
+  border-radius: 2px;
+}
+.movie__detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-left: 60px;
+  margin-right: 20px;
+}
+.movie__title a {
+  text-decoration: none;
+  color: #2c2c2c;
+}
+.movie__img {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  top: -40px;
+  margin-left: 30px;
+}
+.movie__genres {
+  display: grid;
+  grid-template-columns: auto auto;
+}
